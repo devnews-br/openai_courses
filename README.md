@@ -1,2 +1,2 @@
-# openai_courses
-OpenAI Courses
+# OpenAI Courses
+## Compilation of the most popular and useful courses
